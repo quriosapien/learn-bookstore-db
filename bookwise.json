@@ -7,7 +7,12 @@
         "primary": "Tara Westover"
       },
       "publishedYear": 2018,
-      "publishedBy": "Penguin Publications"
+      "publishedBy": "Penguin Publications",
+      "images": {},
+      "isbn": null,
+      "isDeleted": false,
+      "createdAt": null,
+      "updatedAt": null
     },
     {
       "id": "dae4",
@@ -16,7 +21,64 @@
         "primary": "Yuval Noah Harari"
       },
       "publishedYear": 2014,
-      "publishedBy": "Diamond Books"
+      "publishedBy": "Diamond Books",
+      "images": {},
+      "isbn": null,
+      "isDeleted": false,
+      "createdAt": null,
+      "updatedAt": null
+    }
+  ],
+  "users": [
+    {
+      "id": "25cc",
+      "name": "Nikita Jani",
+      "email": "nikita@bookwise.com",
+      "password": "chirimiri",
+      "image": {
+        "small": null,
+        "large": null
+      }
+    },
+    {
+      "id": "f337",
+      "name": "Kumar Gaurav",
+      "email": "kumargaurav@bookwise.com",
+      "password": "shobhapur",
+      "image": {
+        "small": null,
+        "large": null
+      }
+    }
+  ],
+  "sessions": [],
+  "remarks": [
+    {
+      "id": "1d42",
+      "userId": "f337",
+      "bookId": "1fe5",
+      "rating": 5,
+      "remark": "Amazing read. Tara's potrayal of her life, her narrative made me feel like as if I were there always with her, growing up with her"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "d26d",
+      "userId": "f337",
+      "bookId": "dae4",
+      "addedOn": 1717583851748
+    },
+    {
+      "id": "6d57",
+      "userId": "25cc",
+      "bookId": "dae4",
+      "addedOn": 1717583851748
+    },
+    {
+      "id": "cb04",
+      "userId": "25cc",
+      "bookId": "1fe5",
+      "addedOn": 1717583851748
     }
   ]
 }
