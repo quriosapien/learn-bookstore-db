@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": "1fe5",
+      "name": "Educated",
+      "author": {
+        "primary": "Tara Westover"
+      },
+      "publishedYear": 2018,
+      "publishedBy": "Penguin Publications"
+    },
+    {
+      "id": "dae4",
+      "name": "21 Lessons For 21st Century",
+      "author": {
+        "primary": "Yuval Noah Harari"
+      },
+      "publishedYear": 2014,
+      "publishedBy": "Diamond Books"
+    }
+  ]
+}
