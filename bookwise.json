@@ -27,6 +27,20 @@
       "isDeleted": false,
       "createdAt": null,
       "updatedAt": null
+    },
+    {
+      "id": "f22e",
+      "name": "Ikigai",
+      "author": {
+        "primary": "Hector Gracia"
+      },
+      "publishedYear": 2017,
+      "publishedBy": "Punguin Life",
+      "images": {},
+      "isDeleted": false,
+      "isbn": null,
+      "createdAt": null,
+      "updatedAt": null
     }
   ],
   "users": [
